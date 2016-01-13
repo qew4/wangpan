@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "view",
+		"selected_items":
+		[
+			[
+				"view",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/app/MyProject/index.android.js",
+		"/D/app/MyProject/package.json",
+		"/D/app/dianhua2/package.json",
+		"/D/xampp/htdocs/ecshop_lj/mobile/themes/weipinhui/library/asynclist_info2.lbi",
+		"/D/app/dianhua/package.json",
+		"/D/app/dianhua3/package.json",
+		"/D/app/dianhua/.watchmanconfig",
+		"/D/app/dianhua/.flowconfig",
+		"/D/app/dianhua/index.android.js",
+		"/D/xampp/htdocs/ecshop/mobile/data/config.php",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/htdocs/ecshop_lj/data/ecmapi_log/checkorder.log",
+		"/D/xampp/htdocs/ecshop_lj/mobile/liannotify.php",
+		"/D/xampp/htdocs/ecshop_lj/mobile/plugins/connect/qq.php",
+		"/C/Users/user/Desktop/www.4vpocket.com-access_log",
+		"/D/xampp/apache/logs/127.0.0.10-access.log",
+		"/D/xampp/htdocs/ecshop_lj/mobile/declaration.php",
+		"/D/app/MyProject/android/gradle.properties",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/D/app/MyProject/node_modules/react-native/packager/react-packager/src/SocketInterface/index.js",
+		"/D/app/MyProject/android/app/build.gradle",
+		"/D/workspace/记事.txt",
+		"/D/app/MyProject/node_modules/react-native/packager/react-packager/src/FileWatcher/index.js",
+		"/D/xampp/htdocs/ecshop_lj/includes/modules/alipay_forex/refund.php",
+		"/D/xampp/htdocs/ecshop_lj/includes/modules/alipay_forex/customs.php",
+		"/D/xampp/htdocs/ecshop_lj/includes/modules/cron/ipdel.php",
+		"/D/xampp/htdocs/project2/timing_log.txt",
+		"/D/xampp/apache/logs/127.0.0.3-access.log",
+		"/D/xampp/htdocs/ecshop_lj/api/timing_log.txt",
+		"/D/xampp/htdocs/ecshop_lj/includes/modules/cron/auto_manage.php",
+		"/D/workspace/group_buy_info1 - 副本.dwt",
+		"/D/xampp/htdocs/jiami/project2/timing.php",
+		"/D/xampp/htdocs/project2/phpinfo.php",
+		"/D/搜狗高速下载/zend_guard.zl",
+		"/C/Users/user/Desktop/zd.zl",
+		"/D/xampp/htdocs/testgit/.git/config",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/htdocs/wangpan/myfirst.file",
+		"/D/xampp/htdocs/wangpan2/README.md",
+		"/D/xampp/htdocs/ecshop_lj/mobile/sbsign.txt",
+		"/D/xampp/htdocs/ecshop_lj/mobile/sbnotifydata.txt",
+		"/D/xampp/htdocs/project2/func.txt",
+		"/D/xampp/htdocs/clone_git/third.file",
+		"/D/xampp/htdocs/testgit/third.file",
+		"/D/xampp/htdocs/testgit/testgit_1.txt",
+		"/D/xampp/htdocs/testbranch/.git/config",
+		"/D/xampp/htdocs/clone/.git/config",
+		"/D/xampp/htdocs/ecshoptest/抓取携程酒店数据/db_mysql.class.php",
+		"/D/xampp/htdocs/ecshoptest/抓取携程酒店数据/spiderCtripDetail.php",
+		"/D/xampp/htdocs/ecshop_lj/mobile/data/smslog/20151011/15800702445.log",
+		"/D/xampp/htdocs/ecshop_lj/mobile/456789.txt",
+		"/D/xampp/htdocs/ecshop_lj/mobile/themes/weipinhui/library/asynclist_info.lbi",
+		"/D/xampp/htdocs/ecshop_lj/mobile/luck_notify.php",
+		"/D/xampp/htdocs/ecshop_lj/数据库/test.js",
+		"/D/xampp/htdocs/ecshop_lj/mobile/themes/weipinhui/luck_index2.dwt",
+		"/D/xampp/htdocs/ecshop_lj/mobile/132456.txt",
+		"/D/xampp/htdocs/ecshop_lj/mobile/respond.txt",
+		"/D/xampp/htdocs/ecshop_lj/mobile/parameter.txt",
+		"/D/xampp/htdocs/ecshop_lj/mobile/declare_data.txt",
+		"/D/workspace/口岸标准/luck_users.sql",
+		"/C/Users/user/Documents/ecs_goods_activity.grab",
+		"/D/xampp/htdocs/ecshop_lj/数据库/test",
+		"/C/Program Files/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"declaration.php",
+			"liannotify.php",
+			"declaration.php",
+			"declaration",
+			"checkorder.php",
+			"enyCurrentBranch",
+			"max_",
+			"max_up",
+			"max_",
+			"html_errors",
+			"display_err"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.android.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
